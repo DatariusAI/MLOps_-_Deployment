@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+venv/
+env/
+.env/
+
+# Jupyter
+.ipynb_checkpoints/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Model files
+*.pkl
+*.joblib
+model.pkl
+model.joblib
+
+# Distribution
+dist/
+build/
+*.egg-info/
